@@ -1,0 +1,36 @@
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+{
+  "manifestVersion": "2.0.0",
+  "signatureType": "private",
+  "signedByOrg": "sharmachirag",
+  "signedByOrgName": "sharmachirag",
+  "rootUrls": [
+    "https://stg-k8s-graf.duve.com/"
+  ],
+  "plugin": "sharmachirag-mongodbgrafana-datasource",
+  "version": "1.0.0",
+  "time": 1728369049740,
+  "keyId": "7e4d0c6a708866e7",
+  "files": {
+    "CHANGELOG.md": "aaa78be4710ef41d56ddab1edbd180ef9f9adfea2f293109aae925dc33a1b9b3",
+    "img/logo.svg": "1defc6f7e585c67657bcfd8fddc599ee7dfa82f8674413f49fa274c2cd453ec6",
+    "plugin.json": "a86a79821005df1c60f5fea85c4ec832cbbc078343509d7842e8f157f162aab1",
+    "module.js": "53822c4add42af700d38a2d0cf39232a44740c4e34619587d3a4a11f291fd6ab",
+    "README.md": "aaa6865dcb1faf2bd6ca5d53e578dd5a5e338361f24d2d16b63c96719c3fafe7",
+    "LICENSE": "c5accbbd8546e94c34aed24afe689a617627d18eed5a6c48277e48db57c23851"
+  }
+}
+-----BEGIN PGP SIGNATURE-----
+Version: OpenPGP.js v4.10.11
+Comment: https://openpgpjs.org
+
+wrkEARMKAAYFAmcE0ZoAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
+cIhm5xkVAgkB6noWJqkswJzNcVSzJCxpP9OAuojB9zvvVjq7a1eNUKngTPYI
+Nu0H13KuecsOQOFGvj4qXd1mkWreoWOlL2ah8YsCCQF80y+NNxE5pMbxmXvp
+BF1YLTu/NzrwD14fGmjSDQfbu6rtdCWc3FpYKH/ec2SbGtyM18Vp6xsjA4x2
+6LmmwJYAIw==
+=s3NF
+-----END PGP SIGNATURE-----
